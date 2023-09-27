@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Lesson Set</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run/>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Lsn6501.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6502.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6503.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6504.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6505.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6506.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6507.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6508.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6509.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

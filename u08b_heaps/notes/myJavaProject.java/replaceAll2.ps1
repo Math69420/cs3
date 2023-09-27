@@ -1,0 +1,1 @@
+ls . *.java -rec | %{ $f=$_; (gc $f.PSPath) | %{ $_ -replace "package myJava.util", "package java.util" } | sc $f.PSPath }

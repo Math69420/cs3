@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Lesson Set</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run/>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Lsn6401.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6402.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6403.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6404.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6405.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6406.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6407.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6408.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6409.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6410.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lsn6411.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Problem Set</label>
+	</settings>
+	<users>
+		<user>
+			<path>Problem Set.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Problem Set.jcp</path>
+		</project>
+	</projects>
+</workspace>

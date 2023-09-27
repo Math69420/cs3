@@ -1,0 +1,16 @@
+[DEFAULT]
+BASEURL=file:///S:/Student/Student%20Read%20Only/COMPUTER%20SCIENCE/Java%20Help/Java%20Documentation/docs/api/index.html
+[DOC#8#9#10]
+BASEURL=file:///S:/Student/Student%20Read%20Only/COMPUTER%20SCIENCE/Java%20Help/Java%20Documentation/docs/api/overview-frame.html
+ORIGURL=overview-frame.html
+[DOC#8#9#11]
+BASEURL=file:///S:/Student/Student%20Read%20Only/COMPUTER%20SCIENCE/Java%20Help/Java%20Documentation/docs/api/allclasses-frame.html
+ORIGURL=allclasses-frame.html
+[DOC#8#12]
+BASEURL=file:///S:/Student/Student%20Read%20Only/COMPUTER%20SCIENCE/Java%20Help/Java%20Documentation/docs/api/java/util/PriorityQueue.html
+ORIGURL=file:///S:/Student/Student%20Read%20Only/COMPUTER%20SCIENCE/Java%20Help/Java%20Documentation/docs/api/java/util/Queue.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,9
+[InternetShortcut]
+URL=file:///S:/Student/Student%20Read%20Only/COMPUTER%20SCIENCE/Java%20Help/Java%20Documentation/docs/api/index.html
+IDList=

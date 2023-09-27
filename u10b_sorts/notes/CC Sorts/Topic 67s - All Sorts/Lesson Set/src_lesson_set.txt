@@ -1,0 +1,4 @@
+"S:\\Staff\\Faculty\\Computer Science\\CS2 AP 2013-2014\\Topic 82  - Standard Algorithms -- Monte Carlo Sort\\Lesson Set\\Lsn8201.java"
+"S:\\Staff\\Faculty\\Computer Science\\CS2 AP 2013-2014\\Topic 82  - Standard Algorithms -- Monte Carlo Sort\\Lesson Set\\Lsn8203.java"
+"S:\\Staff\\Faculty\\Computer Science\\CS2 AP 2013-2014\\Topic 82  - Standard Algorithms -- Monte Carlo Sort\\Lesson Set\\Lsn8204.java"
+"S:\\Staff\\Faculty\\Computer Science\\CS2 AP 2013-2014\\Topic 82  - Standard Algorithms -- Monte Carlo Sort\\Lesson Set\\Lsn8208.java"
