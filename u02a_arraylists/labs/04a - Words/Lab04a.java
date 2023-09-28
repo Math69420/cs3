@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//ï¿½ A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -24,7 +24,6 @@ public class Lab04a
 		test.removeWordsWithXChars(3);
 		out.println("\nafter removing words with 3 chars \n"+test);
 		out.println("\n\n");		
-				
 		//more test cases
 				
 	}
