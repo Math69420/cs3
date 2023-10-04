@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//ï¿½ A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -16,18 +16,27 @@ public class IteratorTest
 
 	public IteratorTest(String line, String rem)
 	{
+		setTest(line, rem);
 	}
 
 	public void setTest(String line, String rem)
 	{
+		list = new ArrayList<String>(Arrays.asList(line.split(" ")));
+		toRemove = rem;
 	}
 
 	public void remove()
 	{
+		Iterator<String> it = list.iterator();
+		while (it.hasNext()){
+			if (it.next().equals(toRemove)){
+				it.remove();
+			}
+		}
 	}
 
 	public String toString()
 	{
-		return "";
+		return list.toString();
 	}
 }

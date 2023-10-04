@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//ï¿½ A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -29,9 +29,15 @@ public class AtCounter
 
 	public void countAts(int r, int c)
 	{
-
-		//add in recursive code to count up the # of @s connected
-		//start checking at spot [r,c]
+		if (r > -1 && r < 10 && c > -1 && c < 10 && atMat[r][c] == '@'){
+			atCount++;
+			atMat[r][c] = 'v';
+			countAts(r-1,c);
+			countAts(r+1,c);
+			countAts(r,c-1);
+			countAts(r,c+1);
+		}
+		
 
 
 

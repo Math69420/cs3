@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//ï¿½ A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -13,8 +13,10 @@ public class GCF
 	
 	public static int gcf(int n1, int n2)
 	{
-		
-		
-		return 0;
+		int rem = n1 % n2;
+		if (rem == 0){
+			return n2;
+		}
+		else return gcf(n2 , rem);
 	}
 }

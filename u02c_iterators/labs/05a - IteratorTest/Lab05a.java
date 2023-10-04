@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//ï¿½ A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -13,6 +13,8 @@ public class Lab05a
 {
 	public static void main ( String[] args )
 	{
-		//add test cases	
+		IteratorTest t = new IteratorTest("zztop funny aerosmith duranduran bonjovi english english funny vanhalen aerosmith zztop", "english");
+		t.remove();
+		out.println(t);
 	}
 }
